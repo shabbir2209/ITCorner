@@ -1,0 +1,41 @@
+.bg-light {
+    background-color: #fdc115 !important;
+}
+.Contact{
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.alert-danger {
+    color: #721c24;
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+}
+.card-body{
+    color: #fdc115;
+}
+.nav-link{
+    width: 14px;
+}
+element.style {
+    color: black;
+    font-size: large;
+    font-style: initial;
+    margin-left: 12px;
+    padding: 5px 10px;
+}
